@@ -1,0 +1,2 @@
+forge-std/=lib/forge-std/src/
+@solarity/solidity-lib/utils/Globals.sol=src/mor/Globals.sol
